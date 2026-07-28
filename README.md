@@ -17,9 +17,7 @@
 
 <table>
 <tr>
-  <td width="40%" valign="top">
-  <img width="720" height="1002" alt="WhatsApp Image 2026-05-23 at 7 01 39 PM" src="https://github.com/user-attachments/assets/2a31f2be-d605-4cde-9d0f-adbed797f298" />
-  </td>
+  
 <td width="60%" valign="top">
 
 ```python
