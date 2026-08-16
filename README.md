@@ -5,11 +5,22 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/priyanshu-v/"><img src="https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
   <a href="mailto:priyanshuvijay262@gmail.com"><img src="https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
-  <a href="https://github.com/butkii025"><img src="https://img.shields.io/badge/GitHub-C0CAF5?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+  <a href="https://github.com/Butkii025"><img src="https://img.shields.io/badge/GitHub-C0CAF5?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+  <a href="https://www.kaggle.com/butkii"><img src="https://img.shields.io/badge/Kaggle-9ECE6A?style=for-the-badge&logo=kaggle&logoColor=0D1117" /></a>
+  <a href="https://p-vijay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
   <img src="https://komarev.com/ghpvc/?username=butkii025&color=7dcfff&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
 
 <br />
+
+<p align="center">
+  <a href="#-about-me">About</a> , 
+  <a href="#-experience">Experience</a> ,
+  <a href="#-research">Research</a> ,
+  <a href="#-featured-projects">Projects</a> ,
+  <a href="#-tech-stack">Tech Stack</a> ,
+  <a href="#-github-analytics">Analytics</a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dcfff,100:f7768e&height=3&width=100%25" width="100%" />
 
@@ -17,36 +28,38 @@
 
 <table>
 <tr>
-  
+
 <td width="60%" valign="top">
 
-```python
-priyanshu = {
-    "role"        : "Software Engineer & ML Researcher",
-    "based_in"    : "Lucknow, Uttar Pradesh, India",
-    "education"   : "B.Tech CSE @ DSMNRU (2023–2027)",
-    "focus"       : [
-        "MLOps Pipelines",
-        "Predictive Modeling",
-        "Data Analytics",
-        "ML Engineering",
-    ],
-    "currently"   : "Shipping ML pipelines at 89%+ accuracy",
-    "research"    : "Lead Researcher — Nifty 50 Volatility "
-                     "Forecasting, presented at NCMPCS-2026",
-    "target_roles": [
-        "Machine Learning Engineer",
-        "Data Analyst",
-        "Data Scientist",
-    ],
-    "fun_fact"    : "Tea-powered coder ☕ — no deploy without a cup",
-}
-```
+I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **data science, machine learning, and clean UI design**. I like problems that start messy - raw datasets, ambiguous business questions, models that overfit - and end as something a stakeholder can open and understand in ten seconds
 
-I'm a performance-focused engineer who enjoys turning messy, real-world data into production-ready systems from statistical models to interactive dashboards that stakeholders actually use. [Portfolio](https://p-vijay.vercel.app/)
+🔭 Currently build **LearnForge AI**, an MCP-powered AI education platform for the Google × Kaggle 2026 Hackathon
+🔬 Lead researcher on a Nifty 50 volatility forecasting model (**R² 0.9051**), presented at NCMPCS-2026 @DSMNRU
+📊 Shipping predictive models and dashboards for real enterprise & government datasets
+🌱 Always learning - markets, AI, MLOps, and motion design are the current obsessions
+☕ Fun fact: no deploy ships without a cup of tea
+
+<div align="center">
+
+| 🎓 CGPA | 💼 Internships | 🚀 Projects Shipped | 🛠️ Tools & Frameworks |
+|:---:|:---:|:---:|:---:|
+| **8.30** / 10 | **3+** | **13+** | **20+** |
+
+</div>
+
+📄 [Portfolio](https://p-vijay.vercel.app/) · 📄 [Resume](https://docs.google.com/document/d/145I8HrBv9Ub2HroPFgFkyLaGp5p4T4UDzb6s-uII7Pk/export?format=pdf)
 
 </td>
 
+<td width="40%" valign="top" align="center">
+
+**🏅 GitHub Achievements**
+
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="48"/> <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="48"/> <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="48"/> <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="48"/>
+
+`Pull Shark` · `Pair Extraordinaire` · `Quickdraw` · `YOLO`
+
+</td>
 </tr>
 </table>
 
@@ -54,23 +67,58 @@ I'm a performance-focused engineer who enjoys turning messy, real-world data int
 
 ## 💼 Experience
 
-**Data Science & ML Model Building Intern** · BeeSkilled (Remote) · *06/2026*
-- Solved real-world dataset problems through end-to-end pipelines using a 6-stage data engineering process
-- Built predictive regression models to forecast sales volumes and analyzed market segments
-- Delivered an interactive Power BI dashboard with KPI blocks for stakeholders
+<details open>
+<summary><b>🤖 Full-Stack AI Developer</b>: Google × Kaggle 2026 Hackathon | <i>07/2026</i></summary>
+<br/>
 
-**Data Analysis Intern** · Science Tech Institute (UP-Gov) · *07/2025*
-- Analyzed real-world government datasets using Python, Pandas, and R
-- Built dynamic Power BI dashboards and a statistical processing system for predictive analysis
+- Built **LearnForge AI**, a full-stack AI education platform with a secure code sandbox, for the joint Google × Kaggle 2026 Hackathon
+- Implemented a **Model Context Protocol (MCP)** backend with regex-driven token sanitization and 4 AI-agent-automated validation schema tests
+- Stack: Python | MCP Server | React | Vite | Tailwind CSS | Docker | Subprocess
+- 🔗 [Repository](https://github.com/Butkii025/LearnForge-AI) || [Kaggle Writeup](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project)
+</details>
+
+<details>
+<summary><b>🩺 ML Engineer Intern</b> | ElevatesLab (Remote), <i>05/2026 – 07/2026</i></summary>
+<br/>
+
+- Built an end-to-end classification pipeline comparing tree-based models to predict heart disease presence across **1,025 patient records** and 14 clinical features
+- Diagnosed severe overfitting in an unconstrained decision tree (100% train accuracy) and stabilized generalization with a 100-tree Random Forest, reaching **92.98% mean 5-fold CV accuracy**
+- Identified chest pain type, thalassemia, and major vessel count as the top 3 clinical risk indicators via feature importance analysis
+- Stack: Python · Pandas · NumPy · Scikit-learn · Matplotlib
+- 🔗 [Repository](https://github.com/Butkii025/heart-disease-reading)
+</details>
+
+<details>
+<summary><b>📊 Data Analyst Intern</b> | BeeSkilled (Remote), <i>05/2026 – 06/2026</i></summary>
+<br/>
+
+- Ran EDA and predictive modeling across 4-level enterprise datasets covering **$118M+ in global sales**
+- Identified a **-3.1% profit drain** in the Enterprise segment and recommended scaling high-margin (73.1%) Channel Partners
+- Delivered an interactive Power BI dashboard with KPI blocks for stakeholders
+- Stack: Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Power BI · SQL
+- 🔗 [Repository](https://github.com/Butkii025/Financial-Predictive-Modelling---intern)
+</details>
+
+<details>
+<summary><b>📈 Data Analyst Intern</b> | Science Tech Institute (UP-Gov), <i>06/2025 – 07/2025</i></summary>
+<br/>
+
+- Analyzed real-world government datasets and built a statistical processing ecosystem using Python, R, and Excel
+- Built dynamic pivot-table reporting and predictive-analysis workflows for weekly deliverables
+- 🔗 [Certificate](https://p-vijay.vercel.app/credentials/pv-saifai-intership.PDF)
+</details>
 
 ---
 
 ## 🔬 Research
 
 **Predictive Modeling of Nifty 50 Volatility Using India VIX and ML**
-*Lead Researcher — Presented at NCMPCS-2026, DSMNRU, Lucknow · 03/2026*
-- Forecasted Indian market volatility using live NSE/BSE datasets (API + BeautifulSoup4)
-- Applied Random Forest & Gradient Boosting; validated with RMSE, MAE, and R²
+*Lead Researcher - Presented at NCMPCS-2026, DSMNRU, Lucknow: 03/2026*
+
+- Forecasted short-term realized volatility on the Nifty 50 index using an ensemble **Random Forest** architecture on multi-lagged daily log returns from live NSE/BSE data (API + BeautifulSoup4)
+- Achieved **MSE 0.000246, RMSE 0.0157, R² 0.9051**: minimizing out-of-sample error variance
+- Calibrated an adaptive **95% parametric Value-at-Risk (VaR)** framework, achieving a backtested breach ratio of **4.37%** over 389 trading days - closely matching the theoretical target
+- 🔗 [Documentation](https://p-vijay.vercel.app/research/Research-doc.PDF), [Abstract](https://p-vijay.vercel.app/research/NCMPCS-abstract.PDF), [Repository](https://github.com/Butkii025/Market-Reading)
 
 ---
 
@@ -78,53 +126,81 @@ I'm a performance-focused engineer who enjoys turning messy, real-world data int
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Real Estate Valuation Analysis](https://github.com/butkii025)** | Python, Scikit-learn, Streamlit, Plotly | 89.54% accurate ensemble AVM (Ridge, Lasso, Gradient Boosting) · MAE of $12,804 across 1,460 records, 79 features |
-| **[Bibliophile Data Extractor](https://github.com/butkii025)** | Python, Scikit-learn, BS4, Lxml | End-to-end scraping → cleaning → prediction pipeline · 75%+ accurate CLI ML system |
-| **[Xela Arcade](https://github.com/butkii025)** | Next.js, TypeScript, Chess.js | Retro gaming hub (Chess, Snake, Tic-Tac-Toe) with AI logic & real-time state management |
+| **[CreditOptima - Loan Approval System](https://github.com/Butkii025/CreditOptima)** | Python, Scikit-learn, Pandas, Streamlit | Logistic Regression / KNN / Naive Bayes compared at **~87% accuracy**,  live approval predictions + model-comparison dashboard, [Live Demo](https://creditoptima.streamlit.app) |
+| **[Real Estate Valuation Analysis](https://github.com/Butkii025/propsight-analysis)** | Python, Scikit-learn, Plotly, Streamlit | Ensemble AVM (Ridge, Lasso, Gradient Boosting) at **89.54% R²** across 1,460 records, 79 features · [Live Demo](https://propsight.streamlit.app/) |
+| **[Book Data Prediction System](https://github.com/Butkii025/bibliophile-data-extractor)** | Python, Scikit-learn, BS4, LXML | End-to-end scraping -> cleaning -> ensemble ML prediction CLI pipeline |
+| **[Xela Arcade - Chess Engine & Game Collection](https://github.com/Butkii025/Xela_Arcade)** | Next.js, TypeScript, Chess.js, Framer Motion | Retro gaming hub with minimax bot logic, state machines & animated UI · [Live Demo](https://xela-arcade.vercel.app/) |
+| **[Personal Portfolio](https://github.com/Butkii025/my-portfolio)** | TypeScript, Next.js, React, Tailwind CSS | Full interactive portfolio site - see spotlight below · [Live Demo](https://p-vijay.vercel.app/) |
+
+<div align="center">
+<sub>13+ projects in total - explore the rest on my <a href="https://p-vijay.vercel.app/#projects">portfolio</a> or <a href="https://github.com/Butkii025?tab=repositories">repositories</a>.</sub>
+</div>
+
+<br/>
+
+<details open>
+<summary><b>🌐 Spotlight - Personal Portfolio</b>: TypeScript, Next.js, React, Tailwind CSS, Framer Motion</summary>
+<br/>
+
+A fully interactive, single-page portfolio built to double as a live case study of front-end craft - not just a resume in HTML.
+
+- **3D cursor effects** and a custom animated component library for a distinct, tactile feel
+- **Real-time theme switching** with optimized performance across sections
+- **Education journey** module with semester-by-semester SGPA tracking (current CGPA 8.30)
+- **Technical expertise** broken into 9 categorized skill domains (AI/ML, Data Analytics, Data Engineering, Web Dev, Creative Design, and more) with per-domain stats
+- **Experience timeline** pulling live internship/hackathon data with key-impact call-outs
+- **Credentials wall** across Professional, Education, and Community tracks
+- **Research & documents** hub linking directly to write-ups and PDFs
+- **Creative Corner** art gallery + an embedded, playable **Xela Arcade chess bot** ("fun_zone")
+- Working **contact form** with a pre-filled `mailto:` fallback
+
+🔗 [Live Site](https://p-vijay.vercel.app/), [Repository](https://github.com/Butkii025/my-portfolio)
+</details>
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Frontend & Core Development
+<div align="center">
 
-![Next JS](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+**⚡ Core Stack**
 
-### 📊 Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,js,tailwind,html,css,git,docker,mysql,vercel&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3670A0)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
-![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=for-the-badge&logo=plotly&logoColor=7dcfff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=Matplotlib&logoColor=c0caf5)
-![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=seaborn&logoColor=7dcfff)
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![MLflow](https://img.shields.io/badge/MLflow-0D1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
-![XGBoost](https://img.shields.io/badge/XGBoost-262626?style=for-the-badge&logo=xgboost&logoColor=7dcfff)
-![LightGBM](https://img.shields.io/badge/LightGBM-262626?style=for-the-badge&logo=lightgbm&logoColor=7dcfff)
+</div>
 
-### 🎨 Creative Arts & Design
+<br/>
 
-![After Effects](https://img.shields.io/badge/After_Effects-0D1117?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=9999FF)
-![Lightroom](https://img.shields.io/badge/Lightroom-0D1117?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=31A8FF)
-![Canva](https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=Canva&logoColor=00C4CC)
-![SketchUp](https://img.shields.io/badge/SketchUp-0D1117?style=for-the-badge&logo=sketchup&logoColor=005F9E)
-![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-0D1117?style=for-the-badge&logo=ClipStudioPaint&logoColor=CFD3D3)
+<table>
+<tr><td>
 
-### ⚙️ DevOps & Database
+**🚀 Frontend & Core**
 
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05033)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE)
-![HuggingFace](https://skillicons.dev/icons?i=sklearn,pytorch,huggingface&theme=dark)
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+
+</td></tr>
+<tr><td>
+
+**📊 Data Science & Machine Learning**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-3B7EA1?style=for-the-badge&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge&logo=lightgbm&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</td></tr>
+<tr><td>
+
+**🎨 Creative Arts & Design**
+
+<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/> <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/> <img src="https://img.shields.io/badge/Clip_Studio_Paint-CFD3D3?style=for-the-badge&logo=ClipStudioPaint&logoColor=black"/>
+
+</td></tr>
+<tr><td>
+
+**⚙️ DevOps & Database**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/MCP_Server-7dcfff?style=for-the-badge&logo=anthropic&logoColor=black"/>
+
+</td></tr>
+</table>
 
 ---
 ## 📊 GitHub Analytics
@@ -164,7 +240,22 @@ I'm a performance-focused engineer who enjoys turning messy, real-world data int
 
 ---
 
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm open to **Machine Learning Engineer**, **Data Scientist**, and **Data Analyst** roles - always happy to talk about data, models, or a good cup of chai.
+
+<a href="https://www.linkedin.com/in/priyanshu-v/"><img src="https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
+<a href="mailto:priyanshuvijay262@gmail.com"><img src="https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+<a href="https://p-vijay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
+<a href="https://www.kaggle.com/butkii"><img src="https://img.shields.io/badge/Kaggle-9ECE6A?style=for-the-badge&logo=kaggle&logoColor=0D1117" /></a>
+
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%" />
-  <sub>© 2026 Priyanshu Vijay · Built with data, design, and a sip of tea 🍵</sub>
+  <sub>© 2026 Priyanshu, Built with data, design, and a sip of tea 🍵</sub>
 </div>
