@@ -41,9 +41,9 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 
 <div align="center">
 
-| 🎓 CGPA | 💼 Internships | 🚀 Projects Shipped | 🛠️ Tools & Frameworks |
+| 🎓 CGPA | 🚀 Projects Shipped | 🛠️ Tools & Frameworks |
 |:---:|:---:|:---:|:---:|
-| **8.30** / 10 | **3+** | **13+** | **20+** |
+| **8.30** / 10 | **13+** | **20+** |
 
 </div>
 
