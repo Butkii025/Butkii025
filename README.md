@@ -41,13 +41,12 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 
 <div align="center">
 
-| 🎓 CGPA | 🚀 Projects Shipped | 🛠️ Tools & Frameworks |
-|:---:|:---:|:---:|:---:|
-| **8.30** / 10 | **13+** | **20+** |
+|🎓 CGPA : **8.30** / 10  | 🚀 Projects Shipped : **13+** | 🛠️ Tools & Frameworks : **20+** |
+
 
 </div>
 
-📄 [Portfolio](https://p-vijay.vercel.app/) · 📄 [Resume](https://docs.google.com/document/d/145I8HrBv9Ub2HroPFgFkyLaGp5p4T4UDzb6s-uII7Pk/export?format=pdf)
+🔗 [Portfolio](https://p-vijay.vercel.app/) · 📩 [Resume](https://docs.google.com/document/d/145I8HrBv9Ub2HroPFgFkyLaGp5p4T4UDzb6s-uII7Pk/export?format=pdf)
 
 </td>
 
@@ -86,17 +85,6 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 - Identified chest pain type, thalassemia, and major vessel count as the top 3 clinical risk indicators via feature importance analysis
 - Stack: Python · Pandas · NumPy · Scikit-learn · Matplotlib
 - 🔗 [Repository](https://github.com/Butkii025/heart-disease-reading)
-</details>
-
-<details>
-<summary><b>📊 Data Analyst Intern</b> | BeeSkilled (Remote), <i>05/2026 – 06/2026</i></summary>
-<br/>
-
-- Ran EDA and predictive modeling across 4-level enterprise datasets covering **$118M+ in global sales**
-- Identified a **-3.1% profit drain** in the Enterprise segment and recommended scaling high-margin (73.1%) Channel Partners
-- Delivered an interactive Power BI dashboard with KPI blocks for stakeholders
-- Stack: Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Power BI · SQL
-- 🔗 [Repository](https://github.com/Butkii025/Financial-Predictive-Modelling---intern)
 </details>
 
 <details>
