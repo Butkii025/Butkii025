@@ -32,7 +32,7 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 
 <div align="center">
 
-|🎓 CGPA : **8.30** / 10  | 🚀 Projects Shipped : **13+** | 🛠️ Tools & Frameworks : **20+** |
+|🎓 CGPA : **8.30** / 10  | 🚀 Projects Shipped : **15+** | 🛠️ Tools & Frameworks : **20+** |
 
 
 </div>
