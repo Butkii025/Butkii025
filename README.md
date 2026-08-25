@@ -13,15 +13,6 @@
 
 <br />
 
-<p align="center">
-  <a href="#-about-me">About</a> , 
-  <a href="#-experience">Experience</a> ,
-  <a href="#-research">Research</a> ,
-  <a href="#-featured-projects">Projects</a> ,
-  <a href="#-tech-stack">Tech Stack</a> ,
-  <a href="#-github-analytics">Analytics</a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dcfff,100:f7768e&height=3&width=100%25" width="100%" />
 
 ## 🧠 About Me
