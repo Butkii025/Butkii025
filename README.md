@@ -13,6 +13,16 @@
 
 <br />
 
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-experience">Experience</a> •
+  <a href="#-research">Research</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-github-analytics">Analytics</a> •
+  <a href="#-lets-connect">Connect</a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dcfff,100:f7768e&height=3&width=100%25" width="100%" />
 
 ## 🧠 About Me
@@ -22,18 +32,18 @@
 
 <td width="60%" valign="top">
 
-I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **data science, machine learning, and clean UI design**. I like problems that start messy - raw datasets, ambiguous business questions, models that overfit - and end as something a stakeholder can open and understand in ten seconds
+I'm Priyanshu — a CS undergrad in Lucknow who lives at the intersection of **data science, machine learning, and clean UI design**. I like problems that start messy — raw datasets, ambiguous business questions, models that overfit — and end as something a stakeholder can open and understand in ten seconds.
 
-🔭 Currently build **LearnForge AI**, an MCP-powered AI education platform for the Google × Kaggle 2026 Hackathon
-🔬 Lead researcher on a Nifty 50 volatility forecasting model (**R² 0.9051**), presented at NCMPCS-2026 @DSMNRU
+🔭 Currently building **BhuNirvighna-AI**, a land-acquisition delay-risk platform for the Smart India Hackathon 2026 (Ministry of Rural Development)
+🔬 Lead researcher on a Nifty 50 volatility forecasting model (**R² 0.9051**), presented at NCMPCS-2026 @ DSMNRU
 📊 Shipping predictive models and dashboards for real enterprise & government datasets
-🌱 Always learning - markets, AI, MLOps, and motion design are the current obsessions
+🌱 Always learning — markets, AI, MLOps, and motion design are the current obsessions
 ☕ Fun fact: no deploy ships without a cup of tea
 
 <div align="center">
 
-|🎓 CGPA : **8.30** / 10  | 🚀 Projects Shipped : **15+** | 🛠️ Tools & Frameworks : **20+** |
-
+| 🎓 CGPA : **8.30** / 10 | 💼 Internships : **3+** | 🚀 Projects Built : **15+** | 🛠️ Tools & Frameworks : **20+** |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
@@ -58,17 +68,28 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 ## 💼 Experience
 
 <details open>
-<summary><b>🤖 Full-Stack AI Developer</b>: Google × Kaggle 2026 Hackathon | <i>07/2026</i></summary>
+<summary><b>🌾 Full-Stack AI Developer</b> · Smart India Hackathon 2026 — Ministry of Rural Development · <i>09/2026</i></summary>
+<br/>
+
+- Built **BhuNirvighna-AI**, an AI-powered decision-support dashboard (problem statement PS26017) addressing infrastructure project delays caused by compensation, legal, and rehabilitation bottlenecks
+- Engineered an **XGBoost delay-risk classifier (0.97 ROC-AUC)** with SHAP-based explainability, a **Random Forest cost-estimation model (R² 0.67)**, and a rule-based land-feasibility engine
+- Served through a 5-tab Streamlit dashboard with GIS risk heatmaps and an automated recommendation engine
+- Stack: Python · XGBoost · Scikit-learn · SHAP · Pandas · Plotly · Folium · Streamlit Cloud
+- 🔗 [Repository](https://github.com/Butkii025/BhuNirvighna-Ai) · [Live Dashboard](https://bhunirvighna-ai.streamlit.app/)
+</details>
+
+<details>
+<summary><b>🤖 Full-Stack AI Developer</b> · Google × Kaggle 2026 Hackathon · <i>07/2026</i></summary>
 <br/>
 
 - Built **LearnForge AI**, a full-stack AI education platform with a secure code sandbox, for the joint Google × Kaggle 2026 Hackathon
 - Implemented a **Model Context Protocol (MCP)** backend with regex-driven token sanitization and 4 AI-agent-automated validation schema tests
-- Stack: Python | MCP Server | React | Vite | Tailwind CSS | Docker | Subprocess
-- 🔗 [Repository](https://github.com/Butkii025/LearnForge-AI) || [Kaggle Writeup](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project)
+- Stack: Python · MCP Server · React · Vite · Tailwind CSS · Docker · Subprocess
+- 🔗 [Repository](https://github.com/Butkii025/LearnForge-AI) · [Kaggle Writeup](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project)
 </details>
 
 <details>
-<summary><b>🩺 ML Engineer Intern</b> | ElevatesLab (Remote), <i>05/2026 – 07/2026</i></summary>
+<summary><b>🩺 ML Engineer Intern</b> · ElevatesLab (Remote) · <i>05/2026 – 07/2026</i></summary>
 <br/>
 
 - Built an end-to-end classification pipeline comparing tree-based models to predict heart disease presence across **1,025 patient records** and 14 clinical features
@@ -79,7 +100,18 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 </details>
 
 <details>
-<summary><b>📈 Data Analyst Intern</b> | Science Tech Institute (UP-Gov), <i>06/2025 – 07/2025</i></summary>
+<summary><b>📊 Data Analyst Intern</b> · BeeSkilled (Remote) · <i>05/2026 – 06/2026</i></summary>
+<br/>
+
+- Ran EDA and predictive modeling across 4-level enterprise datasets covering **$118M+ in global sales**
+- Identified a **-3.1% profit drain** in the Enterprise segment and recommended scaling high-margin (73.1%) Channel Partners
+- Delivered an interactive Power BI dashboard with KPI blocks for stakeholders
+- Stack: Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Power BI · SQL
+- 🔗 [Repository](https://github.com/Butkii025/Financial-Predictive-Modelling---intern)
+</details>
+
+<details>
+<summary><b>📈 Data Analyst Intern</b> · Science Tech Institute (UP-Gov) · <i>06/2025 – 07/2025</i></summary>
 <br/>
 
 - Analyzed real-world government datasets and built a statistical processing ecosystem using Python, R, and Excel
@@ -92,12 +124,12 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 ## 🔬 Research
 
 **Predictive Modeling of Nifty 50 Volatility Using India VIX and ML**
-*Lead Researcher - Presented at NCMPCS-2026, DSMNRU, Lucknow: 03/2026*
+*Lead Researcher — Presented at NCMPCS-2026, DSMNRU, Lucknow · 03/2026*
 
 - Forecasted short-term realized volatility on the Nifty 50 index using an ensemble **Random Forest** architecture on multi-lagged daily log returns from live NSE/BSE data (API + BeautifulSoup4)
-- Achieved **MSE 0.000246, RMSE 0.0157, R² 0.9051**: minimizing out-of-sample error variance
-- Calibrated an adaptive **95% parametric Value-at-Risk (VaR)** framework, achieving a backtested breach ratio of **4.37%** over 389 trading days - closely matching the theoretical target
-- 🔗 [Documentation](https://p-vijay.vercel.app/research/Research-doc.PDF), [Abstract](https://p-vijay.vercel.app/research/NCMPCS-abstract.PDF), [Repository](https://github.com/Butkii025/Market-Reading)
+- Achieved **MSE 0.000246 · RMSE 0.0157 · R² 0.9051**, minimizing out-of-sample error variance
+- Calibrated an adaptive **95% parametric Value-at-Risk (VaR)** framework, achieving a backtested breach ratio of **4.37%** over 389 trading days — closely matching the theoretical target
+- 🔗 [Documentation](https://p-vijay.vercel.app/research/Research-doc.PDF) · [Abstract](https://p-vijay.vercel.app/research/NCMPCS-abstract.PDF) · [Repository](https://github.com/Butkii025/Market-Reading)
 
 ---
 
@@ -105,23 +137,25 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[CreditOptima - Loan Approval System](https://github.com/Butkii025/CreditOptima)** | Python, Scikit-learn, Pandas, Streamlit | Logistic Regression / KNN / Naive Bayes compared at **~87% accuracy**,  live approval predictions + model-comparison dashboard, [Live Demo](https://creditoptima.streamlit.app) |
+| **[BhuNirvighna-AI — Land Acquisition Risk Predictor](https://github.com/Butkii025/BhuNirvighna-Ai)** | Python, XGBoost, SHAP, Streamlit, Folium | Delay-risk classifier at **0.97 ROC-AUC** + cost-estimation model (R² 0.67) · GIS heatmaps · [Live Demo](https://bhunirvighna-ai.streamlit.app/) |
+| **[FeelFrame — Text Sentiment Analysis](https://github.com/Butkii025/feelframe)** | Next.js, React, TypeScript, PyTorch, FastAPI | Sentiment classifier on 50K IMDB reviews at **91% accuracy**, served via REST API with a live confidence-gauge UI · [Live Demo](https://feelframe.vercel.app/) |
+| **[CreditOptima — Loan Approval System](https://github.com/Butkii025/CreditOptima)** | Python, Scikit-learn, Pandas, Streamlit | Logistic Regression / KNN / Naive Bayes compared at **~87% accuracy** · live approval predictions + model-comparison dashboard · [Live Demo](https://creditoptima.streamlit.app) |
 | **[Real Estate Valuation Analysis](https://github.com/Butkii025/propsight-analysis)** | Python, Scikit-learn, Plotly, Streamlit | Ensemble AVM (Ridge, Lasso, Gradient Boosting) at **89.54% R²** across 1,460 records, 79 features · [Live Demo](https://propsight.streamlit.app/) |
-| **[Book Data Prediction System](https://github.com/Butkii025/bibliophile-data-extractor)** | Python, Scikit-learn, BS4, LXML | End-to-end scraping -> cleaning -> ensemble ML prediction CLI pipeline |
-| **[Xela Arcade - Chess Engine & Game Collection](https://github.com/Butkii025/Xela_Arcade)** | Next.js, TypeScript, Chess.js, Framer Motion | Retro gaming hub with minimax bot logic, state machines & animated UI · [Live Demo](https://xela-arcade.vercel.app/) |
-| **[Personal Portfolio](https://github.com/Butkii025/my-portfolio)** | TypeScript, Next.js, React, Tailwind CSS | Full interactive portfolio site - see spotlight below · [Live Demo](https://p-vijay.vercel.app/) |
+| **[Book Data Prediction System](https://github.com/Butkii025/bibliophile-data-extractor)** | Python, Scikit-learn, BS4, LXML | End-to-end scraping → cleaning → ensemble ML prediction CLI pipeline |
+| **[Xela Arcade — Chess Engine & Game Collection](https://github.com/Butkii025/Xela_Arcade)** | Next.js, TypeScript, Chess.js, Framer Motion | Retro gaming hub with minimax bot logic, state machines & animated UI · [Live Demo](https://xela-arcade.vercel.app/) |
+| **[Personal Portfolio](https://github.com/Butkii025/my-portfolio)** | TypeScript, Next.js, React, Tailwind CSS | Full interactive portfolio site — see spotlight below · [Live Demo](https://p-vijay.vercel.app/) |
 
 <div align="center">
-<sub>13+ projects in total - explore the rest on my <a href="https://p-vijay.vercel.app/#projects">portfolio</a> or <a href="https://github.com/Butkii025?tab=repositories">repositories</a>.</sub>
+<sub>15+ projects in total — explore the rest on my <a href="https://p-vijay.vercel.app/#projects">portfolio</a> or <a href="https://github.com/Butkii025?tab=repositories">repositories</a>.</sub>
 </div>
 
 <br/>
 
 <details open>
-<summary><b>🌐 Spotlight - Personal Portfolio</b>: TypeScript, Next.js, React, Tailwind CSS, Framer Motion</summary>
+<summary><b>🌐 Spotlight — Personal Portfolio</b> · TypeScript · Next.js · React · Tailwind CSS · Framer Motion</summary>
 <br/>
 
-A fully interactive, single-page portfolio built to double as a live case study of front-end craft - not just a resume in HTML.
+A fully interactive, single-page portfolio built to double as a live case study of front-end craft — not just a resume in HTML.
 
 - **3D cursor effects** and a custom animated component library for a distinct, tactile feel
 - **Real-time theme switching** with optimized performance across sections
@@ -133,7 +167,7 @@ A fully interactive, single-page portfolio built to double as a live case study 
 - **Creative Corner** art gallery + an embedded, playable **Xela Arcade chess bot** ("fun_zone")
 - Working **contact form** with a pre-filled `mailto:` fallback
 
-🔗 [Live Site](https://p-vijay.vercel.app/), [Repository](https://github.com/Butkii025/my-portfolio)
+🔗 [Live Site](https://p-vijay.vercel.app/) · [Repository](https://github.com/Butkii025/my-portfolio)
 </details>
 
 ---
@@ -162,7 +196,7 @@ A fully interactive, single-page portfolio built to double as a live case study 
 
 **📊 Data Science & Machine Learning**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-3B7EA1?style=for-the-badge&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge&logo=lightgbm&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-3B7EA1?style=for-the-badge&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge&logo=lightgbm&logoColor=white"/> <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 </td></tr>
 <tr><td>
@@ -223,7 +257,7 @@ A fully interactive, single-page portfolio built to double as a live case study 
 
 <div align="center">
 
-I'm open to **Machine Learning Engineer**, **Data Scientist**, and **Data Analyst** roles - always happy to talk about data, models, or a good cup of chai.
+I'm open to **Machine Learning Engineer**, **Data Scientist**, and **Data Analyst** roles — always happy to talk about data, models, or a good cup of chai.
 
 <a href="https://www.linkedin.com/in/priyanshu-v/"><img src="https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
 <a href="mailto:priyanshuvijay262@gmail.com"><img src="https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
