@@ -32,12 +32,12 @@
 
 <td width="60%" valign="top">
 
-I'm Priyanshu — a CS undergrad in Lucknow who lives at the intersection of **data science, machine learning, and clean UI design**. I like problems that start messy — raw datasets, ambiguous business questions, models that overfit — and end as something a stakeholder can open and understand in ten seconds.
+I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **data science, machine learning, and clean UI design**. I like problems that start messy - raw datasets, ambiguous business questions, models that overfit - and end as something a stakeholder can open and understand in ten seconds.
 
 🔭 Currently building **BhuNirvighna-AI**, a land-acquisition delay-risk platform for the Smart India Hackathon 2026 (Ministry of Rural Development)
 🔬 Lead researcher on a Nifty 50 volatility forecasting model (**R² 0.9051**), presented at NCMPCS-2026 @ DSMNRU
 📊 Shipping predictive models and dashboards for real enterprise & government datasets
-🌱 Always learning — markets, AI, MLOps, and motion design are the current obsessions
+🌱 Always learning - markets, AI, MLOps, and motion design are the current obsessions
 ☕ Fun fact: no deploy ships without a cup of tea
 
 <div align="center">
@@ -68,7 +68,7 @@ I'm Priyanshu — a CS undergrad in Lucknow who lives at the intersection of **d
 ## 💼 Experience
 
 <details open>
-<summary><b>🌾 Full-Stack AI Developer</b> · Smart India Hackathon 2026 — Ministry of Rural Development · <i>09/2026</i></summary>
+<summary><b>🌾 Full-Stack AI Developer</b> · Smart India Hackathon 2026 - Ministry of Rural Development · <i>09/2026</i></summary>
 <br/>
 
 - Built **BhuNirvighna-AI**, an AI-powered decision-support dashboard (problem statement PS26017) addressing infrastructure project delays caused by compensation, legal, and rehabilitation bottlenecks
@@ -124,11 +124,11 @@ I'm Priyanshu — a CS undergrad in Lucknow who lives at the intersection of **d
 ## 🔬 Research
 
 **Predictive Modeling of Nifty 50 Volatility Using India VIX and ML**
-*Lead Researcher — Presented at NCMPCS-2026, DSMNRU, Lucknow · 03/2026*
+*Lead Researcher - Presented at NCMPCS-2026, DSMNRU, Lucknow · 03/2026*
 
 - Forecasted short-term realized volatility on the Nifty 50 index using an ensemble **Random Forest** architecture on multi-lagged daily log returns from live NSE/BSE data (API + BeautifulSoup4)
 - Achieved **MSE 0.000246 · RMSE 0.0157 · R² 0.9051**, minimizing out-of-sample error variance
-- Calibrated an adaptive **95% parametric Value-at-Risk (VaR)** framework, achieving a backtested breach ratio of **4.37%** over 389 trading days — closely matching the theoretical target
+- Calibrated an adaptive **95% parametric Value-at-Risk (VaR)** framework, achieving a backtested breach ratio of **4.37%** over 389 trading days - closely matching the theoretical target
 - 🔗 [Documentation](https://p-vijay.vercel.app/research/Research-doc.PDF) · [Abstract](https://p-vijay.vercel.app/research/NCMPCS-abstract.PDF) · [Repository](https://github.com/Butkii025/Market-Reading)
 
 ---
@@ -137,25 +137,25 @@ I'm Priyanshu — a CS undergrad in Lucknow who lives at the intersection of **d
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[BhuNirvighna-AI — Land Acquisition Risk Predictor](https://github.com/Butkii025/BhuNirvighna-Ai)** | Python, XGBoost, SHAP, Streamlit, Folium | Delay-risk classifier at **0.97 ROC-AUC** + cost-estimation model (R² 0.67) · GIS heatmaps · [Live Demo](https://bhunirvighna-ai.streamlit.app/) |
-| **[FeelFrame — Text Sentiment Analysis](https://github.com/Butkii025/feelframe)** | Next.js, React, TypeScript, PyTorch, FastAPI | Sentiment classifier on 50K IMDB reviews at **91% accuracy**, served via REST API with a live confidence-gauge UI · [Live Demo](https://feelframe.vercel.app/) |
-| **[CreditOptima — Loan Approval System](https://github.com/Butkii025/CreditOptima)** | Python, Scikit-learn, Pandas, Streamlit | Logistic Regression / KNN / Naive Bayes compared at **~87% accuracy** · live approval predictions + model-comparison dashboard · [Live Demo](https://creditoptima.streamlit.app) |
+| **[BhuNirvighna-AI - Land Acquisition Risk Predictor](https://github.com/Butkii025/BhuNirvighna-Ai)** | Python, XGBoost, SHAP, Streamlit, Folium | Delay-risk classifier at **0.97 ROC-AUC** + cost-estimation model (R² 0.67) · GIS heatmaps · [Live Demo](https://bhunirvighna-ai.streamlit.app/) |
+| **[FeelFrame - Text Sentiment Analysis](https://github.com/Butkii025/feelframe)** | Next.js, React, TypeScript, PyTorch, FastAPI | Sentiment classifier on 50K IMDB reviews at **91% accuracy**, served via REST API with a live confidence-gauge UI · [Live Demo](https://feelframe.vercel.app/) |
+| **[CreditOptima - Loan Approval System](https://github.com/Butkii025/CreditOptima)** | Python, Scikit-learn, Pandas, Streamlit | Logistic Regression / KNN / Naive Bayes compared at **~87% accuracy** · live approval predictions + model-comparison dashboard · [Live Demo](https://creditoptima.streamlit.app) |
 | **[Real Estate Valuation Analysis](https://github.com/Butkii025/propsight-analysis)** | Python, Scikit-learn, Plotly, Streamlit | Ensemble AVM (Ridge, Lasso, Gradient Boosting) at **89.54% R²** across 1,460 records, 79 features · [Live Demo](https://propsight.streamlit.app/) |
 | **[Book Data Prediction System](https://github.com/Butkii025/bibliophile-data-extractor)** | Python, Scikit-learn, BS4, LXML | End-to-end scraping → cleaning → ensemble ML prediction CLI pipeline |
-| **[Xela Arcade — Chess Engine & Game Collection](https://github.com/Butkii025/Xela_Arcade)** | Next.js, TypeScript, Chess.js, Framer Motion | Retro gaming hub with minimax bot logic, state machines & animated UI · [Live Demo](https://xela-arcade.vercel.app/) |
-| **[Personal Portfolio](https://github.com/Butkii025/my-portfolio)** | TypeScript, Next.js, React, Tailwind CSS | Full interactive portfolio site — see spotlight below · [Live Demo](https://p-vijay.vercel.app/) |
+| **[Xela Arcade - Chess Engine & Game Collection](https://github.com/Butkii025/Xela_Arcade)** | Next.js, TypeScript, Chess.js, Framer Motion | Retro gaming hub with minimax bot logic, state machines & animated UI · [Live Demo](https://xela-arcade.vercel.app/) |
+| **[Personal Portfolio](https://github.com/Butkii025/my-portfolio)** | TypeScript, Next.js, React, Tailwind CSS | Full interactive portfolio site - see spotlight below · [Live Demo](https://p-vijay.vercel.app/) |
 
 <div align="center">
-<sub>15+ projects in total — explore the rest on my <a href="https://p-vijay.vercel.app/#projects">portfolio</a> or <a href="https://github.com/Butkii025?tab=repositories">repositories</a>.</sub>
+<sub>15+ projects in total - explore the rest on my <a href="https://p-vijay.vercel.app/#projects">portfolio</a> or <a href="https://github.com/Butkii025?tab=repositories">repositories</a>.</sub>
 </div>
 
 <br/>
 
 <details open>
-<summary><b>🌐 Spotlight — Personal Portfolio</b> · TypeScript · Next.js · React · Tailwind CSS · Framer Motion</summary>
+<summary><b>🌐 Spotlight - Personal Portfolio</b> · TypeScript · Next.js · React · Tailwind CSS · Framer Motion</summary>
 <br/>
 
-A fully interactive, single-page portfolio built to double as a live case study of front-end craft — not just a resume in HTML.
+A fully interactive, single-page portfolio built to double as a live case study of front-end craft - not just a resume in HTML.
 
 - **3D cursor effects** and a custom animated component library for a distinct, tactile feel
 - **Real-time theme switching** with optimized performance across sections
@@ -257,7 +257,7 @@ A fully interactive, single-page portfolio built to double as a live case study 
 
 <div align="center">
 
-I'm open to **Machine Learning Engineer**, **Data Scientist**, and **Data Analyst** roles — always happy to talk about data, models, or a good cup of chai.
+I'm open to **Machine Learning Engineer**, **Data Scientist**, and **Data Analyst** roles - always happy to talk about data, models, or a good cup of chai.
 
 <a href="https://www.linkedin.com/in/priyanshu-v/"><img src="https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
 <a href="mailto:priyanshuvijay262@gmail.com"><img src="https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
