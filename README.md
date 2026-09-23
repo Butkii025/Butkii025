@@ -120,9 +120,7 @@ A fully interactive, single-page portfolio built to double as a live case study 
 - **Technical expertise** broken into 9 categorized skill domains (AI/ML, Data Analytics, Data Engineering, Web Dev, Creative Design, and more) with per-domain stats
 - **Experience timeline** pulling live internship/hackathon data with key-impact call-outs
 - **Credentials wall** across Professional, Education, and Community tracks
-- **Research & documents** hub linking directly to write-ups and PDFs
 - **Creative Corner** art gallery + an embedded, playable **Xela Arcade chess bot** ("fun_zone")
-- Working **contact form** with a pre-filled `mailto:` fallback
 
 🔗 [Live Site](https://p-vijay.vercel.app/) · [Repository](https://github.com/Butkii025/my-portfolio)
 </details>
