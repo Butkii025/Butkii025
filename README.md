@@ -32,8 +32,8 @@ I'm Priyanshu - a CS undergrad @DSMNRU in Lucknow who lives at the intersection 
 
 <div align="center">
 
-| 🎓 CGPA : **8.30** / 10 | 💼 Internships : **3+** | 🧊 Hackathons : **2+** | 🚀 Projects Built : **15+** | 🛠️ Tools & Frameworks : **20+** |
-|:---:|:---:|:---:|:---:|:---:|
+| 🎓 CGPA : **8.30** / 10 | 💼 Internships : **3+** | 🧊 Hackathons : **2+** | 🚀 Projects Built : **15+** |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
