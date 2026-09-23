@@ -13,16 +13,6 @@
 
 <br />
 
-<p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-experience">Experience</a> •
-  <a href="#-research">Research</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-github-analytics">Analytics</a> •
-  <a href="#-lets-connect">Connect</a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dcfff,100:f7768e&height=3&width=100%25" width="100%" />
 
 ## 🧠 About Me
@@ -67,17 +57,6 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 
 ## 💼 Experience
 
-<details open>
-<summary><b>🌾 Full-Stack AI Developer</b> · Smart India Hackathon 2026 - Ministry of Rural Development · <i>09/2026</i></summary>
-<br/>
-
-- Built **BhuNirvighna-AI**, an AI-powered decision-support dashboard (problem statement PS26017) addressing infrastructure project delays caused by compensation, legal, and rehabilitation bottlenecks
-- Engineered an **XGBoost delay-risk classifier (0.97 ROC-AUC)** with SHAP-based explainability, a **Random Forest cost-estimation model (R² 0.67)**, and a rule-based land-feasibility engine
-- Served through a 5-tab Streamlit dashboard with GIS risk heatmaps and an automated recommendation engine
-- Stack: Python · XGBoost · Scikit-learn · SHAP · Pandas · Plotly · Folium · Streamlit Cloud
-- 🔗 [Repository](https://github.com/Butkii025/BhuNirvighna-Ai) · [Live Dashboard](https://bhunirvighna-ai.streamlit.app/)
-</details>
-
 <details>
 <summary><b>🤖 Full-Stack AI Developer</b> · Google × Kaggle 2026 Hackathon · <i>07/2026</i></summary>
 <br/>
@@ -99,26 +78,6 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 - 🔗 [Repository](https://github.com/Butkii025/heart-disease-reading)
 </details>
 
-<details>
-<summary><b>📊 Data Analyst Intern</b> · BeeSkilled (Remote) · <i>05/2026 – 06/2026</i></summary>
-<br/>
-
-- Ran EDA and predictive modeling across 4-level enterprise datasets covering **$118M+ in global sales**
-- Identified a **-3.1% profit drain** in the Enterprise segment and recommended scaling high-margin (73.1%) Channel Partners
-- Delivered an interactive Power BI dashboard with KPI blocks for stakeholders
-- Stack: Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Power BI · SQL
-- 🔗 [Repository](https://github.com/Butkii025/Financial-Predictive-Modelling---intern)
-</details>
-
-<details>
-<summary><b>📈 Data Analyst Intern</b> · Science Tech Institute (UP-Gov) · <i>06/2025 – 07/2025</i></summary>
-<br/>
-
-- Analyzed real-world government datasets and built a statistical processing ecosystem using Python, R, and Excel
-- Built dynamic pivot-table reporting and predictive-analysis workflows for weekly deliverables
-- 🔗 [Certificate](https://p-vijay.vercel.app/credentials/pv-saifai-intership.PDF)
-</details>
-
 ---
 
 ## 🔬 Research
@@ -138,10 +97,8 @@ I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **dat
 | Project | Stack | Highlights |
 |---|---|---|
 | **[BhuNirvighna-AI - Land Acquisition Risk Predictor](https://github.com/Butkii025/BhuNirvighna-Ai)** | Python, XGBoost, SHAP, Streamlit, Folium | Delay-risk classifier at **0.97 ROC-AUC** + cost-estimation model (R² 0.67) · GIS heatmaps · [Live Demo](https://bhunirvighna-ai.streamlit.app/) |
-| **[FeelFrame - Text Sentiment Analysis](https://github.com/Butkii025/feelframe)** | Next.js, React, TypeScript, PyTorch, FastAPI | Sentiment classifier on 50K IMDB reviews at **91% accuracy**, served via REST API with a live confidence-gauge UI · [Live Demo](https://feelframe.vercel.app/) |
 | **[CreditOptima - Loan Approval System](https://github.com/Butkii025/CreditOptima)** | Python, Scikit-learn, Pandas, Streamlit | Logistic Regression / KNN / Naive Bayes compared at **~87% accuracy** · live approval predictions + model-comparison dashboard · [Live Demo](https://creditoptima.streamlit.app) |
 | **[Real Estate Valuation Analysis](https://github.com/Butkii025/propsight-analysis)** | Python, Scikit-learn, Plotly, Streamlit | Ensemble AVM (Ridge, Lasso, Gradient Boosting) at **89.54% R²** across 1,460 records, 79 features · [Live Demo](https://propsight.streamlit.app/) |
-| **[Book Data Prediction System](https://github.com/Butkii025/bibliophile-data-extractor)** | Python, Scikit-learn, BS4, LXML | End-to-end scraping → cleaning → ensemble ML prediction CLI pipeline |
 | **[Xela Arcade - Chess Engine & Game Collection](https://github.com/Butkii025/Xela_Arcade)** | Next.js, TypeScript, Chess.js, Framer Motion | Retro gaming hub with minimax bot logic, state machines & animated UI · [Live Demo](https://xela-arcade.vercel.app/) |
 | **[Personal Portfolio](https://github.com/Butkii025/my-portfolio)** | TypeScript, Next.js, React, Tailwind CSS | Full interactive portfolio site - see spotlight below · [Live Demo](https://p-vijay.vercel.app/) |
 
