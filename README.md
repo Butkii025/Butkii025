@@ -22,18 +22,18 @@
 
 <td width="60%" valign="top">
 
-I'm Priyanshu - a CS undergrad in Lucknow who lives at the intersection of **data science, machine learning, and clean UI design**. I like problems that start messy - raw datasets, ambiguous business questions, models that overfit - and end as something a stakeholder can open and understand in ten seconds.
+I'm Priyanshu - a CS undergrad @DSMNRU in Lucknow who lives at the intersection of **data science, machine learning, and clean UI design**. I like problems that start messy - raw datasets, ambiguous business questions, models that overfit - and end as something a stakeholder can open and understand in ten seconds.
 
-🔭 Currently building **BhuNirvighna-AI**, a land-acquisition delay-risk platform for the Smart India Hackathon 2026 (Ministry of Rural Development)
-🔬 Lead researcher on a Nifty 50 volatility forecasting model (**R² 0.9051**), presented at NCMPCS-2026 @ DSMNRU
-📊 Shipping predictive models and dashboards for real enterprise & government datasets
-🌱 Always learning - markets, AI, MLOps, and motion design are the current obsessions
-☕ Fun fact: no deploy ships without a cup of tea
+* 🔭 Currently building **BhuNirvighna-AI**, a land-acquisition delay-risk platform for the Ministry of Rural Development
+* 🔬 Lead researcher on a Nifty 50 volatility forecasting model (**R² 0.9051**), presented at NCMPCS-2026 @ DSMNRU
+* 📊 Shipping predictive models and dashboards for real enterprise & government datasets
+* 🌱 Always learning - markets, AI, MLOps, and motion design are the current obsessions
+* ☕ Fun fact: no deploy ships without a cup of tea
 
 <div align="center">
 
-| 🎓 CGPA : **8.30** / 10 | 💼 Internships : **3+** | 🚀 Projects Built : **15+** | 🛠️ Tools & Frameworks : **20+** |
-|:---:|:---:|:---:|:---:|
+| 🎓 CGPA : **8.30** / 10 | 💼 Internships : **3+** | 🧊 Hackathons : **2+** | 🚀 Projects Built : **15+** | 🛠️ Tools & Frameworks : **20+** |
+|:---:|:---:|:---:|:---:|:---:|
 
 </div>
 
