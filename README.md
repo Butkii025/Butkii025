@@ -55,43 +55,6 @@ I'm Priyanshu - a CS undergrad @DSMNRU in Lucknow who lives at the intersection 
 
 ---
 
-## 💼 Experience
-
-<details>
-<summary><b>🤖 Full-Stack AI Developer</b> · Google × Kaggle 2026 Hackathon · <i>07/2026</i></summary>
-<br/>
-
-- Built **LearnForge AI**, a full-stack AI education platform with a secure code sandbox, for the joint Google × Kaggle 2026 Hackathon
-- Implemented a **Model Context Protocol (MCP)** backend with regex-driven token sanitization and 4 AI-agent-automated validation schema tests
-- Stack: Python · MCP Server · React · Vite · Tailwind CSS · Docker · Subprocess
-- 🔗 [Repository](https://github.com/Butkii025/LearnForge-AI) · [Kaggle Writeup](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project)
-</details>
-
-<details>
-<summary><b>🩺 ML Engineer Intern</b> · ElevatesLab (Remote) · <i>05/2026 – 07/2026</i></summary>
-<br/>
-
-- Built an end-to-end classification pipeline comparing tree-based models to predict heart disease presence across **1,025 patient records** and 14 clinical features
-- Diagnosed severe overfitting in an unconstrained decision tree (100% train accuracy) and stabilized generalization with a 100-tree Random Forest, reaching **92.98% mean 5-fold CV accuracy**
-- Identified chest pain type, thalassemia, and major vessel count as the top 3 clinical risk indicators via feature importance analysis
-- Stack: Python · Pandas · NumPy · Scikit-learn · Matplotlib
-- 🔗 [Repository](https://github.com/Butkii025/heart-disease-reading)
-</details>
-
----
-
-## 🔬 Research
-
-**Predictive Modeling of Nifty 50 Volatility Using India VIX and ML**
-*Lead Researcher - Presented at NCMPCS-2026, DSMNRU, Lucknow · 03/2026*
-
-- Forecasted short-term realized volatility on the Nifty 50 index using an ensemble **Random Forest** architecture on multi-lagged daily log returns from live NSE/BSE data (API + BeautifulSoup4)
-- Achieved **MSE 0.000246 · RMSE 0.0157 · R² 0.9051**, minimizing out-of-sample error variance
-- Calibrated an adaptive **95% parametric Value-at-Risk (VaR)** framework, achieving a backtested breach ratio of **4.37%** over 389 trading days - closely matching the theoretical target
-- 🔗 [Documentation](https://p-vijay.vercel.app/research/Research-doc.PDF) · [Abstract](https://p-vijay.vercel.app/research/NCMPCS-abstract.PDF) · [Repository](https://github.com/Butkii025/Market-Reading)
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Stack | Highlights |
@@ -99,31 +62,12 @@ I'm Priyanshu - a CS undergrad @DSMNRU in Lucknow who lives at the intersection 
 | **[BhuNirvighna-AI - Land Acquisition Risk Predictor](https://github.com/Butkii025/BhuNirvighna-Ai)** | Python, XGBoost, SHAP, Streamlit, Folium | Delay-risk classifier at **0.97 ROC-AUC** + cost-estimation model (R² 0.67) · GIS heatmaps · [Live Demo](https://bhunirvighna-ai.streamlit.app/) |
 | **[CreditOptima - Loan Approval System](https://github.com/Butkii025/CreditOptima)** | Python, Scikit-learn, Pandas, Streamlit | Logistic Regression / KNN / Naive Bayes compared at **~87% accuracy** · live approval predictions + model-comparison dashboard · [Live Demo](https://creditoptima.streamlit.app) |
 | **[Real Estate Valuation Analysis](https://github.com/Butkii025/propsight-analysis)** | Python, Scikit-learn, Plotly, Streamlit | Ensemble AVM (Ridge, Lasso, Gradient Boosting) at **89.54% R²** across 1,460 records, 79 features · [Live Demo](https://propsight.streamlit.app/) |
-| **[Xela Arcade - Chess Engine & Game Collection](https://github.com/Butkii025/Xela_Arcade)** | Next.js, TypeScript, Chess.js, Framer Motion | Retro gaming hub with minimax bot logic, state machines & animated UI · [Live Demo](https://xela-arcade.vercel.app/) |
-| **[Personal Portfolio](https://github.com/Butkii025/my-portfolio)** | TypeScript, Next.js, React, Tailwind CSS | Full interactive portfolio site - see spotlight below · [Live Demo](https://p-vijay.vercel.app/) |
 
 <div align="center">
 <sub>15+ projects in total - explore the rest on my <a href="https://p-vijay.vercel.app/#projects">portfolio</a> or <a href="https://github.com/Butkii025?tab=repositories">repositories</a>.</sub>
 </div>
 
 <br/>
-
-<details open>
-<summary><b>🌐 Spotlight - Personal Portfolio</b> · TypeScript · Next.js · React · Tailwind CSS · Framer Motion</summary>
-<br/>
-
-A fully interactive, single-page portfolio built to double as a live case study of front-end craft - not just a resume in HTML.
-
-- **3D cursor effects** and a custom animated component library for a distinct, tactile feel
-- **Real-time theme switching** with optimized performance across sections
-- **Education journey** module with semester-by-semester SGPA tracking (current CGPA 8.30)
-- **Technical expertise** broken into 9 categorized skill domains (AI/ML, Data Analytics, Data Engineering, Web Dev, Creative Design, and more) with per-domain stats
-- **Experience timeline** pulling live internship/hackathon data with key-impact call-outs
-- **Credentials wall** across Professional, Education, and Community tracks
-- **Creative Corner** art gallery + an embedded, playable **Xela Arcade chess bot** ("fun_zone")
-
-🔗 [Live Site](https://p-vijay.vercel.app/) · [Repository](https://github.com/Butkii025/my-portfolio)
-</details>
 
 ---
 
