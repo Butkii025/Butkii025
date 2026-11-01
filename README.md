@@ -31,11 +31,6 @@
 <img src="./assets/pv-gamified.jpeg" alt="Player P_Vijay — Fully Loaded" width="100%" />
 
 <sub>▰▰▰▰▰ <b>FULLY LOADED…</b></sub>
-
-</td>
-
-<td width="60%" valign="top">
-
 ```text
 ╔═══════════════════════════════════════╗
 ║ PLAYER : P_Vijay                      ║
@@ -49,7 +44,24 @@
 ╚═══════════════════════════════════════╝
 ```
 
-I'm Priyanshu - a CS undergrad @DSMNRU in Lucknow who lives at the intersection of **data science, machine learning, and clean UI design**. I like problems that start messy - raw datasets, ambiguous business questions, models that overfit - and end as something a stakeholder can open and understand in ten seconds.
+</td>
+
+<td width="60%" valign="top">
+
+
+
+I'm Priyanshu Vijay, a Computer Science undergraduate at DSMNRU, Lucknow, and a Full-Stack AI/ML Engineer & Data Analyst. I build end-to-end machine learning systems, from data wrangling and predictive modeling to explainable dashboards and deployed web applications, that turn raw, messy data into decisions stakeholders can trust.
+
+My work spans XGBoost and Random Forest modeling, NLP with Transformers, and full-stack delivery with Next.js and FastAPI, backed by three internships, two hackathon builds, and quantitative research presented at NCMPCS-2026. I am also participating in Google Summer of Code (GSoC) research.
+
+**📍 Where I've put it to work**
+
+* 🏆 **Hackathons:** *Smart India Hackathon 2026* · [Repo](https://github.com/Butkii025/BhuNirvighna-Ai) · [Live](https://bhunirvighna-ai.streamlit.app/) / *Google × Kaggle Hakathone 2026* · [Repo](https://github.com/Butkii025/LearnForge-AI) · [Writeup](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project)
+  
+* 💼 **Internships:** *ElevatesLab* · [Repo](https://github.com/Butkii025/heart-disease-reading) / *BeeSkilled* · [Repo](https://github.com/Butkii025/Financial-Predictive-Modelling---intern)
+* 🎓 **College & personal projects:** *Present Call* (face/voice biometrics) · [Live](https://presentcall.vercel.app/) | *CreditOptima* · [Live](https://creditoptima.streamlit.app)
+* 🔬 **Research:** presented at NCMPCS-2026 · [Paper](https://p-vijay.vercel.app/research/Research-doc.PDF) · [Abstract](https://p-vijay.vercel.app/research/NCMPCS-abstract.PDF) · [Repo](https://github.com/Butkii025/Market-Reading)
+* 🌍 **GSoC:** participating in **Google Summer of Code (GSoC)** research 2026
 
 </td>
 </tr>
@@ -58,6 +70,7 @@ I'm Priyanshu - a CS undergrad @DSMNRU in Lucknow who lives at the intersection 
 ### 📜 Quest Log
 
 * 🔭 **Active quest:** building **BhuNirvighna-AI**, a land-acquisition delay-risk platform for the Ministry of Rural Development
+* 🌍 **Open-source quest:** participating in Google Summer of Code (GSoC) research
 * 🔬 **Side quest:** lead researcher on a Nifty 50 volatility forecasting model (**R² 0.9051**), presented at NCMPCS-2026 @ DSMNRU
 * 📊 **Daily grind:** shipping predictive models and dashboards for real enterprise & government datasets
 * 🌱 **Training arc:** markets, AI, MLOps, and motion design
