@@ -1,83 +1,129 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=260&section=header&text=Priyanshu%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=ML%20Engineer%20•%20Data%20Scientist%20•%20Data%20Analyst&descSize=20&descAlignY=52&descColor=7dcfff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0518,45:5b21b6,100:a855f7&height=260&section=header&text=Priyanshu%20Vijay&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=ML%20Engineer%20•%20Data%20Scientist%20•%20Data%20Analyst&descSize=20&descAlignY=52&descColor=7dcfff" width="100%"  />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-v/"><img src="https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
-  <a href="mailto:priyanshuvijay262@gmail.com"><img src="https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
-  <a href="https://github.com/Butkii025"><img src="https://img.shields.io/badge/GitHub-C0CAF5?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
-  <a href="https://www.kaggle.com/butkii"><img src="https://img.shields.io/badge/Kaggle-9ECE6A?style=for-the-badge&logo=kaggle&logoColor=0D1117" /></a>
-  <a href="https://p-vijay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-  <img src="https://komarev.com/ghpvc/?username=butkii025&color=7dcfff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=1100&color=C084FC&center=true&vCenter=true&width=760&height=50&lines=PRESS+START+%E2%96%B6;ML+Engineer+%E2%80%A2+Data+Scientist+%E2%80%A2+Data+Analyst;Turning+messy+data+into+decisions;PLAY+HARD+%C2%B7+STAY+HAPPY" alt="Typing intro" />
 </div>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dcfff,100:f7768e&height=3&width=100%25" width="100%" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-v/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:priyanshuvijay262@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Butkii025"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/butkii"><img src="https://img.shields.io/badge/Kaggle-6D28D9?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://p-vijay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FBBF24?style=for-the-badge&logo=vercel&logoColor=1a0b2e" /></a>
+  <img src="https://komarev.com/ghpvc/?username=butkii025&color=a855f7&style=for-the-badge&label=PLAYER+VIEWS" />
+</div>
 
-## 🧠 About Me
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:fbbf24&height=3&width=100%25" width="100%" />
+
+## 🎮 Player Profile
 
 <table>
 <tr>
 
+<td width="40%" align="center" valign="top">
+
+<img src="./assets/pv-gamified.jpeg" alt="Player P_Vijay — Fully Loaded" width="100%" />
+
+<sub>▰▰▰▰▰ <b>FULLY LOADED…</b></sub>
+
+</td>
+
 <td width="60%" valign="top">
+
+```text
+╔═══════════════════════════════════════╗
+║ PLAYER : P_Vijay                      ║
+║ CLASS  : ML Engineer · Data Scientist ║
+║ GUILD  : DSMNRU · B.Tech CSE          ║
+║ LEVEL  : 06  (Semester VI complete)   ║
+║ HP     : ████████████ 100/100         ║
+║ CGPA   : ██████████░░ 8.30/10         ║
+║ KIRAN  : █████████░░░ → LVL 07        ║
+║ K-BOT  : Play Hard · Stay Happy       ║
+╚═══════════════════════════════════════╝
+```
 
 I'm Priyanshu - a CS undergrad @DSMNRU in Lucknow who lives at the intersection of **data science, machine learning, and clean UI design**. I like problems that start messy - raw datasets, ambiguous business questions, models that overfit - and end as something a stakeholder can open and understand in ten seconds.
 
-* 🔭 Currently building **BhuNirvighna-AI**, a land-acquisition delay-risk platform for the Ministry of Rural Development
-* 🔬 Lead researcher on a Nifty 50 volatility forecasting model (**R² 0.9051**), presented at NCMPCS-2026 @ DSMNRU
-* 📊 Shipping predictive models and dashboards for real enterprise & government datasets
-* 🌱 Always learning - markets, AI, MLOps, and motion design are the current obsessions
-* ☕ Fun fact: no deploy ships without a cup of tea
+</td>
+</tr>
+</table>
+
+### 📜 Quest Log
+
+* 🔭 **Active quest:** building **BhuNirvighna-AI**, a land-acquisition delay-risk platform for the Ministry of Rural Development
+* 🔬 **Side quest:** lead researcher on a Nifty 50 volatility forecasting model (**R² 0.9051**), presented at NCMPCS-2026 @ DSMNRU
+* 📊 **Daily grind:** shipping predictive models and dashboards for real enterprise & government datasets
+* 🌱 **Training arc:** markets, AI, MLOps, and motion design
+* ☕ **Power-up:** no deploy ships without a cup of tea
 
 <div align="center">
 
 | 🎓 CGPA : **8.30** / 10 | 💼 Internships : **3+** | 🧊 Hackathons : **2+** | 🚀 Projects Built : **15+** |
 |:---:|:---:|:---:|:---:|
 
-</div>
-
-🔗 [Portfolio](https://p-vijay.vercel.app/) · 📩 [Resume](https://docs.google.com/document/d/145I8HrBv9Ub2HroPFgFkyLaGp5p4T4UDzb6s-uII7Pk/export?format=pdf)
-
-</td>
-
-<td width="40%" valign="top" align="center">
-
-**🏅 GitHub Achievements**
+**🏅 Unlocked Achievements**
 
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="48"/> <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="48"/> <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="48"/> <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="48"/>
 
 `Pull Shark` · `Pair Extraordinaire` · `Quickdraw` · `YOLO`
 
-</td>
-</tr>
-</table>
+</div>
+
+🔗 [Portfolio](https://p-vijay.vercel.app/) · 📩 [Resume](https://docs.google.com/document/d/145I8HrBv9Ub2HroPFgFkyLaGp5p4T4UDzb6s-uII7Pk/export?format=pdf)
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **[BhuNirvighna-AI - Land Acquisition Risk Predictor](https://github.com/Butkii025/BhuNirvighna-Ai)** | Python, XGBoost, SHAP, Streamlit, Folium | Delay-risk classifier at **0.97 ROC-AUC** + cost-estimation model (R² 0.67) · GIS heatmaps · [Live Demo](https://bhunirvighna-ai.streamlit.app/) |
-| **[CreditOptima - Loan Approval System](https://github.com/Butkii025/CreditOptima)** | Python, Scikit-learn, Pandas, Streamlit | Logistic Regression / KNN / Naive Bayes compared at **~87% accuracy** · live approval predictions + model-comparison dashboard · [Live Demo](https://creditoptima.streamlit.app) |
-| **[Real Estate Valuation Analysis](https://github.com/Butkii025/propsight-analysis)** | Python, Scikit-learn, Plotly, Streamlit | Ensemble AVM (Ridge, Lasso, Gradient Boosting) at **89.54% R²** across 1,460 records, 79 features · [Live Demo](https://propsight.streamlit.app/) |
+## 🌳 Skill Tree
 
 <div align="center">
-<sub>15+ projects in total - explore the rest on my <a href="https://p-vijay.vercel.app/#projects">portfolio</a> or <a href="https://github.com/Butkii025?tab=repositories">repositories</a>.</sub>
+
+```text
+AI/ML Engineering         ███████████░  19/20
+Data Science & Analytics  ████████████  20/20
+Data Eng. & ETL           ██████░░░░░░  10/20
+Python Apps               ███████░░░░░  11/20
+Game Algorithms           ██████░░░░░░  10/20
+Web Development           ██████░░░░░░  10/20
+Creative Design           █████░░░░░░░   8/20
+Dev Tools & Deploy        ███████░░░░░  12/20
+```
+
+<sub>Bars show skills unlocked per domain (out of 20), as tracked on my <a href="https://p-vijay.vercel.app/#skills">portfolio</a>.</sub>
+
+</div>
+
+---
+
+## ⚔️ Boss Fights (Featured Projects)
+
+| Boss | Weapons | Loot |
+|---|---|---|
+| **[mini-txt - AI Text Summarizer](https://github.com/Butkii025/mini-txt)** | Python, Hugging Face Transformers, T5, Fly.io | Text summarization app built on Hugging Face's **T5 model**, containerized and deployed on **Fly.io** |
+| **[Present Call - Biometric Attendance Engine](https://github.com/Butkii025/Present-Call-page)** | Python, Scikit-learn, Supabase, Resemblyzer, bcrypt | Mark a whole class's attendance from **one photo** or a **voice roll-call**; identity verified via face/voice **embeddings** (no raw images stored) with anti-spoofing & realtime sync · [Live Demo](https://presentcall.vercel.app/) |
+| **[CreditOptima - Loan Approval System](https://github.com/Butkii025/CreditOptima)** | Python, Scikit-learn, Pandas, Streamlit | Logistic Regression / KNN / Naive Bayes compared at **~87% accuracy** · live approval predictions + model-comparison dashboard · [Live Demo](https://creditoptima.streamlit.app) |
+
+<div align="center">
+<sub>15+ quests cleared - explore the rest on my <a href="https://p-vijay.vercel.app/#projects">portfolio</a> or <a href="https://github.com/Butkii025?tab=repositories">repositories</a>.</sub>
 </div>
 
 <br/>
 
 ---
 
-## 💻 Tech Stack
+## 🎒 Inventory (Tech Stack)
 
 <div align="center">
 
-**⚡ Core Stack**
+**⚡ Equipped Loadout**
 
-<img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,js,tailwind,html,css,git,docker,mysql,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,nextjs,tailwind,nodejs,fastapi,pytorch,sklearn,supabase,mysql,docker,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -86,30 +132,37 @@ I'm Priyanshu - a CS undergrad @DSMNRU in Lucknow who lives at the intersection 
 <table>
 <tr><td>
 
-**🚀 Frontend & Core**
+**💬 Languages**
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-
-</td></tr>
-<tr><td>
-
-**📊 Data Science & Machine Learning**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-3B7EA1?style=for-the-badge&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/LightGBM-4CAF50?style=for-the-badge&logo=lightgbm&logoColor=white"/> <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-2e1065?style=for-the-badge&logo=python&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/HTML5-2e1065?style=for-the-badge&logo=html5&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/CSS3-2e1065?style=for-the-badge&logo=css3&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/SQL-2e1065?style=for-the-badge&logo=mysql&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/JavaScript-2e1065?style=for-the-badge&logo=javascript&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/TypeScript-2e1065?style=for-the-badge&logo=typescript&logoColor=c4b5fd"/>
 
 </td></tr>
 <tr><td>
 
-**🎨 Creative Arts & Design**
+**🤖 AI / ML**
 
-<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/> <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/> <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/> <img src="https://img.shields.io/badge/Clip_Studio_Paint-CFD3D3?style=for-the-badge&logo=ClipStudioPaint&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--learn-2e1065?style=for-the-badge&logo=scikitlearn&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/PyTorch-2e1065?style=for-the-badge&logo=pytorch&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Transformers-2e1065?style=for-the-badge&logo=huggingface&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/LLMs-2e1065?style=for-the-badge&logo=googlegemini&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Agentic%20AI-2e1065?style=for-the-badge&logo=probot&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/MCP-2e1065?style=for-the-badge&logo=modelcontextprotocol&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-2e1065?style=for-the-badge&logo=openai&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/NLP-2e1065?style=for-the-badge&logo=spacy&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/XGBoost-2e1065?style=for-the-badge&logo=xgboost&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/LightGBM-2e1065?style=for-the-badge&logo=lightgbm&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/SHAP-2e1065?style=for-the-badge&logo=python&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Random%20Forest-2e1065?style=for-the-badge&logo=scikitlearn&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Gradient%20Boosting-2e1065?style=for-the-badge&logo=scikitlearn&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/DBSCAN-2e1065?style=for-the-badge&logo=scikitlearn&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/SciPy-2e1065?style=for-the-badge&logo=scipy&logoColor=c4b5fd"/>
 
 </td></tr>
 <tr><td>
 
-**⚙️ DevOps & Database**
+**📊 Data Science & Analytics**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/MCP_Server-7dcfff?style=for-the-badge&logo=anthropic&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-2e1065?style=for-the-badge&logo=pandas&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/NumPy-2e1065?style=for-the-badge&logo=numpy&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/EDA-2e1065?style=for-the-badge&logo=jupyter&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Data%20Wrangling-2e1065?style=for-the-badge&logo=pandas&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Web%20Scraping%20%28BS4%29-2e1065?style=for-the-badge&logo=python&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Plotly-2e1065?style=for-the-badge&logo=plotly&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Power%20BI-2e1065?style=for-the-badge&logo=powerbi&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Microsoft%20Excel-2e1065?style=for-the-badge&logo=microsoftexcel&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/MySQL-2e1065?style=for-the-badge&logo=mysql&logoColor=c4b5fd"/>
+
+</td></tr>
+<tr><td>
+
+**🌐 Web Engineering**
+
+<img src="https://img.shields.io/badge/React-2e1065?style=for-the-badge&logo=react&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Next.js-2e1065?style=for-the-badge&logo=nextdotjs&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-2e1065?style=for-the-badge&logo=tailwindcss&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/FastAPI-2e1065?style=for-the-badge&logo=fastapi&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Streamlit-2e1065?style=for-the-badge&logo=streamlit&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Supabase-2e1065?style=for-the-badge&logo=supabase&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/REST%20APIs-2e1065?style=for-the-badge&logo=fastapi&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Node.js-2e1065?style=for-the-badge&logo=nodedotjs&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/EmailJS-2e1065?style=for-the-badge&logo=maildotru&logoColor=c4b5fd"/>
+
+</td></tr>
+<tr><td>
+
+**🛠️ Developer Tools**
+
+<img src="https://img.shields.io/badge/Git-2e1065?style=for-the-badge&logo=git&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/GitHub-2e1065?style=for-the-badge&logo=github&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Docker-2e1065?style=for-the-badge&logo=docker&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/VS%20Code-2e1065?style=for-the-badge&logo=visualstudiocode&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Google%20Colab-2e1065?style=for-the-badge&logo=googlecolab&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Jupyter%20Notebook-2e1065?style=for-the-badge&logo=jupyter&logoColor=c4b5fd"/> <img src="https://img.shields.io/badge/Hugging%20Face-2e1065?style=for-the-badge&logo=huggingface&logoColor=c4b5fd"/>
 
 </td></tr>
 </table>
@@ -152,22 +205,23 @@ I'm Priyanshu - a CS undergrad @DSMNRU in Lucknow who lives at the intersection 
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Join My Party
 
 <div align="center">
 
 I'm open to **Machine Learning Engineer**, **Data Scientist**, and **Data Analyst** roles - always happy to talk about data, models, or a good cup of chai.
 
-<a href="https://www.linkedin.com/in/priyanshu-v/"><img src="https://img.shields.io/badge/LinkedIn-7DCFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
-<a href="mailto:priyanshuvijay262@gmail.com"><img src="https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
-<a href="https://p-vijay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-BB9AF7?style=for-the-badge&logo=vercel&logoColor=0D1117" /></a>
-<a href="https://www.kaggle.com/butkii"><img src="https://img.shields.io/badge/Kaggle-9ECE6A?style=for-the-badge&logo=kaggle&logoColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-v/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:priyanshuvijay262@gmail.com"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://p-vijay.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FBBF24?style=for-the-badge&logo=vercel&logoColor=1a0b2e" /></a>
+<a href="https://www.kaggle.com/butkii"><img src="https://img.shields.io/badge/Kaggle-6D28D9?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%" />
+  <sub><b>▰▰▰▰▰▰▰▰▰▰ FULLY LOADED…</b> &nbsp;·&nbsp; 🎮 &nbsp;🎧 &nbsp;💻</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,55:5b21b6,100:0d0518&height=120&section=footer" width="100%" />
   <sub>© 2026 Priyanshu, Built with data, design, and a sip of tea 🍵</sub>
 </div>
